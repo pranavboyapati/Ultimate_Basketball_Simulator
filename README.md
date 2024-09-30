@@ -1,1 +1,1 @@
-This repository contains all the resources I used to develop the game Geo Jumping using Unity and C#. This game is available at [https://apps.apple.com/us/app/ultimate-basketball-simulator/id6448995809](url).
+This repository contains all the resources I used to develop the game Ultimate Basketball Simulator using Unity and C#. This game is available at [https://apps.apple.com/us/app/ultimate-basketball-simulator/id6448995809](url).
