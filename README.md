@@ -1,4 +1,4 @@
-# Ultimate Basketball Simulator 🏀
+# Ultimate Basketball Simulator
 
 > A 1v1 basketball simulation game built with Unity and C#, available now on iOS devices.
 
